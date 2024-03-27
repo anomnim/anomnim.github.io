@@ -2,13 +2,6 @@
 
 #EXTM3U billed-msg="lokalan"
 
-#EXTINF:-1 tvg-logo="" tvg-id="Indosiar.id" group-title="bundar",Liga 1
-#https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-360.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Indosiar.id" group-title="bundar",Liga 1
-#http://golive.yn.lt/live/liga1/01.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Indosiar.id" group-title="bundar",Liga 1
-#http://golive.yn.lt/live/liga1/02.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sxlxwvA.png?v=1.0.0.1" group-title="Nasional" tvg-id="ANTV.id" tvg-name="ANTV",ANTV
@@ -36,9 +29,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="Nasional" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar
-#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-#https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe251b8cbf412cf05603
-https://m3u-editor.com/serve/47b9da10-dc6b-11ed-80fe-0183c944ea23/822656776
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -112,9 +105,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="Nasional" tvg-id="SCTV.id",SCTV
-#http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#https://k.ksa.my.id/ksa.m3u8?a=c503fc6c5f0efeac6080&b=16c98dda3ce86e1907df&c=aa3a68bfd25acb92fcc7
-https://m3u-editor.com/serve/47b9da10-dc6b-11ed-80fe-0183c944ea23/822656777
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
