@@ -154,7 +154,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-===============     Local     ===============
+#########################     Local     #########################
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://cdn4.mbahnunungonline.net/img/YTiEeu7.png?v=1.0.0.1" tvg-id="ADi TV" tvg-name="ADi TV", ADi TV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
@@ -216,7 +216,7 @@ https://v2.siar.us/saktitv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://cdn4.mbahnunungonline.net/img/ehDWytF.png?v=1.0.0.1" tvg-id="TVKU" tvg-name="TVKU", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-=====================     LifeStyle     =====================
+#########################     LifeStyle     #########################
 
 #EXTINF:-1 group-title="LifeStyle" tvg-logo="",
 Food Network
@@ -226,7 +226,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 HGTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
-=====================     Film     =====================
+#########################     Film     #########################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -397,7 +397,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
 
-=====================     xxx     =====================
+#########################     xxx     #########################
 
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="",
 
