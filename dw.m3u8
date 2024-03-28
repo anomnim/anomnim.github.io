@@ -358,8 +358,38 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 group-title="Film" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies Indonesia
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#########################     xxx     #########################
+#########################     HBO     #########################
 
-#EXTINF:-1 group-title="" tvg-logo="",
+#EXTINF:-1 group-title="HBO" tvg-logo="",HBO
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
+
+#EXTINF:-1 group-title="HBO" tvg-logo="",HBO Action
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo-action.m3u8
+
+#EXTINF:-1 group-title="HBO" tvg-logo="",HBO Animation
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo-animation.m3u8
+
+#EXTINF:-1 group-title="HBO" tvg-logo="",HBO Asian
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo-asian.m3u8
+
+#EXTINF:-1 group-title="HBO" tvg-logo="",HBO Crime
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo-crime.m3u8
+
+#EXTINF:-1 group-title="HBO" tvg-logo="",HBO Max
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo-max.m3u8
+
+#EXTINF:-1 group-title="HBO" tvg-logo="",HBO Family
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
+
+#EXTINF:-1 group-title="HBO" tvg-logo="",HBO Hits
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
+
+#EXTINF:-1 group-title="HBO" tvg-logo="",HBO Signature
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
+
+
+
+
+
 
 
