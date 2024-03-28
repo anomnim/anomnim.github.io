@@ -389,24 +389,24 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo-max.m3u8
 
 #########################     Hulu     #########################
 
-#EXTINF:-1 group-title="HBO HD" tvg-logo="",Hulu Adventure
+#EXTINF:-1 group-title="Hulu HD" tvg-logo="",Hulu Adventure
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hulu-adventure.m3u8
 
-#EXTINF:-1 group-title="HBO HD" tvg-logo="",Hulu Animation
+#EXTINF:-1 group-title="Hulu HD" tvg-logo="",Hulu Animation
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hulu-animation.m3u8
 
-#EXTINF:-1 group-title="HBO HD" tvg-logo="",Hulu Comedy
+#EXTINF:-1 group-title="Hulu HD" tvg-logo="",Hulu Comedy
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hulu-comedy.m3u8
 
-#EXTINF:-1 group-title="HBO HD" tvg-logo="",Hulu Crime
+#EXTINF:-1 group-title="Hulu HD" tvg-logo="",Hulu Crime
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hulu-crime.m3u8
 
-#EXTINF:-1 group-title="HBO HD" tvg-logo="",Hulu Fantasy
+#EXTINF:-1 group-title="Hulu HD" tvg-logo="",Hulu Fantasy
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hulu-fantasy.m3u8
 
-#EXTINF:-1 group-title="HBO HD" tvg-logo="",Hulu Mistery
+#EXTINF:-1 group-title="Hulu HD" tvg-logo="",Hulu Mistery
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hulu-mistery.m3u8
 
-#EXTINF:-1 group-title="HBO HD" tvg-logo="",Hulu Scifi
+#EXTINF:-1 group-title="Hulu HD" tvg-logo="",Hulu Scifi
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hulu-scifi.m3u8
 
