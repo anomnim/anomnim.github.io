@@ -412,3 +412,20 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hulu-scifi.m3u8
 
 #########################     HBO     #########################
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO",HBO ID
+http://iptvtree.net:8080/everton/7def2e7e/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO",HBO Family ID
+http://iptvtree.net:8080/everton/7def2e7e/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO",HBO Hits ID
+http://iptvtree.net:8080/everton/7def2e7e/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO",HBO Signature ID
+http://iptvtree.net:8080/everton/7def2e7e/221948
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="HBO",HBO~
+https://s.id/hbo_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="HBO",HBO~HITS~
+https://s.id/hboHits_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="HBO",HBO~FAMILY~
+https://s.id/hboFamily_shareext-ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="HBO",HBO~SIGNATURE~
+https://s.id/hboSignature_shareext-ts
