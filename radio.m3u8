@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0, Dengerin
+http://stream.denger.in:8888/dmi
+#EXTINF:0, Sonora FM
+http://cast1.my-control-panel.com/proxy/radioso1/stream
+#EXTINF:0, Delta FM
+https://stream.cloudmu.id/listen/delta_fm/stream
+#EXTINF:0, Prambors FM
+https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
+#EXTINF:0, Female Radio
+https://stream.cloudmu.id/listen/female_radio/stream
+#EXTINF:0, Trax FM
+https://stream.radiojar.com/rrqf78p3bnzuv.mp3
+#EXTINF:0, HardRock FM
+https://stream.radiojar.com/7csmg90fuqruv.mp3
+#EXTINF:0, I-Radio FM
+https://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:0, Cosmopolitan FM
+https://stream.radiojar.com/u7d8heq3bnzuv.mp3
+#EXTINF:0, Gen FM
+https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
+#EXTINF:0, Jak FM
+https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
+#EXTINF:0, Mustang FM
+https://wz.mari.co.id:1936/web_mustangfm/mustangfm/playlist.m3u8
+#EXTINF:0, KIS FM 951
+https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8
+#EXTINF:0, Hot FM
+https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
+#EXTINF:0, Elshinta Radio
+https://stream-ssl.arenastreaming.com:8000/jakarta
+#EXTINF:0, Pas FM
+https://i.klikhost.com/8266/stream
+#EXTINF:0, Smooth FM
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+#EXTINF:0, Smart FM
+https://streamingv2.shoutcast.com/smart-jakarta
+#EXTINF:0, Motion Radio
+https://streamingv2.shoutcast.com/motion-jakarta
+#EXTINF:0, OZ Radio Jakarta
+https://streaming.ozradiojakarta.com:8443/ozjakarta
+#EXTINF:0, RadioQu Cirebon
+http://live.radioqu.com:8034/;stream.mp3
+#EXTINF:0, Radio Rodja
+https://radioislamindonesia.com/rodja-low.mp3
