@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTM3U billed-msg="https://paylist.cibu.my.id"
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="Lokal" group-title="LIVE EVENT" tvg-logo="https://m.media-amazon.com/images/S/aplus-media/vc/cc645190-471e-4bdb-b24c-cf2951c23b11.__CR0,0,300,300_PT0_SX300_V1___.jpg" ch-number="92" group-logo="",BAC 2024
