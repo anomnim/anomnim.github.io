@@ -52,9 +52,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="Nasional",Magna TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Nasional" tvg-id="mentari tv" tvg-name="mentari tv",Mentari TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="mentari tv" group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N9aGoqBfebsIn3j9tXao6HJY5MKm00vGFexTOFJS0g&s" ch-number="1" group-logo="",MENTARI TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cibu.my.id/yahah/pid/index.m3u8?id=8237&type=hls&token=20
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Nasional" tvg-id="MetroTV.id" tvg-name="metro tv",Metro TV
 http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
@@ -434,14 +437,13 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO SG",Cinemax (Sg)
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-
 #########################     HBO Cubmu    #########################
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" group-title="Cubmu" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" ch-number="92" group-logo="",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev/?&token=62
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev/?&token=20
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
@@ -450,7 +452,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" group-title="Cubmu" tvg-logo="https://w7.pngwing.com/pngs/914/277/png-transparent-hbo-television-channel-logo-television-show-design-television-text-logo.png" ch-number="92" group-logo="",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev/?&token=62
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev/?&token=20
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
@@ -459,7 +461,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" group-title="Cubmu" tvg-logo="https://w7.pngwing.com/pngs/534/400/png-transparent-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo-family.png" ch-number="92" group-logo="",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev/?&token=62
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev/?&token=20
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
@@ -468,7 +470,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" group-title="Cubmu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4Vz90-EaxidoPQIjbE_f2Nr6zR0ewZrN_EzwB1TqMQ&s" ch-number="92" group-logo="",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev/?&token=62
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev/?&token=20
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
@@ -477,9 +479,58 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" group-title="Cubmu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2ppafRVDb9pYTTZL5Msrt_4Antbpguvy2Ye9GdmIhg&s" ch-number="92" group-logo="",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev/?&token=62
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.xxxxxxxxxxxxxxxxxx.workers.dev/?&token=20
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
+#########################     HBO Maxstream   #########################
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true 
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.7 (Linux;Android 9) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="Maxstream",HBO
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true 
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.7 (Linux;Android 9) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://hometv.pw/logo/movies/hbo_hits.png" group-title="Maxstream",HBO HITS
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.7 (Linux;Android 9) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTINF:-1 tvg-name="HBO SIGN" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png" group-title="Maxstream",HBO Signature
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.7 (Linux;Android 9) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://hometv.pw/logo/movies/hbo_family.png" group-title="Maxstream",HBO Family
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.7 (Linux;Android 9) ExoPlayerLib/2.12.2
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://hometv.pw/logo/movies/cinemax.png" group-title="Maxstream",CINEMAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+
+#########################        #########################
 
