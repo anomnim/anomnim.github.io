@@ -65,7 +65,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="TV_Indonesia" tvg-id="MetroTV.id" tvg-name="metro tv",Metro TV
 http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
@@ -208,11 +208,11 @@ http://103.30.1.14:8080/hls/live.m3u8
 #########################     Radio_Indonesia    #########################
 
 #EXTINF:-1 group-title="Radio_Indonesia", Dengerin
-http://stream.denger.in:8888/dmi
+#http://stream.denger.in:8888/dmi
 #EXTINF:-1 group-title="Radio_Indonesia", Sonora FM
-http://cast1.my-control-panel.com/proxy/radioso1/stream
+#http://cast1.my-control-panel.com/proxy/radioso1/stream
 #EXTINF:-1 group-title="Radio_Indonesia", Delta FM
-https://stream.cloudmu.id/listen/delta_fm/stream
+#https://stream.cloudmu.id/listen/delta_fm/stream
 #EXTINF:-1 group-title="Radio_Indonesia", Prambors FM
 https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
 #EXTINF:-1 group-title="Radio_Indonesia", Female Radio_Indonesia
@@ -224,30 +224,30 @@ https://stream.radiojar.com/7csmg90fuqruv.mp3
 #EXTINF:-1 group-title="Radio_Indonesia", I-Radio_Indonesia FM
 https://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:-1 group-title="Radio_Indonesia", Cosmopolitan FM
-https://stream.radiojar.com/u7d8heq3bnzuv.mp3
+#https://stream.radiojar.com/u7d8heq3bnzuv.mp3
 #EXTINF:-1 group-title="Radio_Indonesia", Gen FM
-https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
+#https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
 #EXTINF:-1 group-title="Radio_Indonesia", Jak FM
-https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
+#https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
 #EXTINF:-1 group-title="Radio_Indonesia", Mustang FM
-https://wz.mari.co.id:1936/web_mustangfm/mustangfm/playlist.m3u8
+#https://wz.mari.co.id:1936/web_mustangfm/mustangfm/playlist.m3u8
 #EXTINF:-1 group-title="Radio_Indonesia", KIS FM 951
-https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8
+#https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8
 #EXTINF:-1 group-title="Radio_Indonesia", Hot FM
-https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
+#https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
 #EXTINF:-1 group-title="Radio_Indonesia", Elshinta Radio_Indonesia
-https://stream-ssl.arenastreaming.com:8000/jakarta
+#https://stream-ssl.arenastreaming.com:8000/jakarta
 #EXTINF:-1 group-title="Radio_Indonesia", Pas FM
-https://i.klikhost.com/8266/stream
+#https://i.klikhost.com/8266/stream
 #EXTINF:-1 group-title="Radio_Indonesia", Smooth FM
-https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+#https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #EXTINF:-1 group-title="Radio_Indonesia", Smart FM
-https://streamingv2.shoutcast.com/smart-jakarta
+#https://streamingv2.shoutcast.com/smart-jakarta
 #EXTINF:-1 group-title="Radio_Indonesia", Motion Radio_Indonesia
-https://streamingv2.shoutcast.com/motion-jakarta
+#https://streamingv2.shoutcast.com/motion-jakarta
 #EXTINF:-1 group-title="Radio_Indonesia", OZ Radio_Indonesia Jakarta
-https://streaming.ozradiojakarta.com:8443/ozjakarta
+#https://streaming.ozradiojakarta.com:8443/ozjakarta
 #EXTINF:-1 group-title="Radio_Indonesia", Radio_IndonesiaQu Cirebon
-http://live.radioqu.com:8034/;stream.mp3
+#http://live.radioqu.com:8034/;stream.mp3
 #EXTINF:-1 group-title="Radio_Indonesia", Radio_Indonesia Rodja
-https://radioislamindonesia.com/rodja-low.mp3
+#https://radioislamindonesia.com/rodja-low.mp3
