@@ -43,3 +43,6 @@ https://streaming.ozradiojakarta.com:8443/ozjakarta
 http://live.radioqu.com:8034/;stream.mp3
 #EXTINF:0, Radio Rodja
 https://radioislamindonesia.com/rodja-low.mp3
+#EXTINF:0, RRI Pro 2 Tanjung Pinang
+https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3
+
