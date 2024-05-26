@@ -133,32 +133,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
 
- #EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",225
+#EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",225
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43 
 #EXTVLCOPT:http-referrer=http://dens.tv 
 http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",226
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43 
-#EXTVLCOPT:http-referrer=http://dens.tv 
-http://op-group1-swiftservehd-1.dens.tv/h/h226/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",227
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43 
 #EXTVLCOPT:http-referrer=http://dens.tv 
 http://op-group1-swiftservehd-1.dens.tv/h/h227/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",228
+#EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",231
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43 
 #EXTVLCOPT:http-referrer=http://dens.tv 
-http://op-group1-swiftservehd-1.dens.tv/h/h228/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",229
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43 
-#EXTVLCOPT:http-referrer=http://dens.tv 
-http://op-group1-swiftservehd-1.dens.tv/h/h229/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",230
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43 
-#EXTVLCOPT:http-referrer=http://dens.tv 
-http://op-group1-swiftservehd-1.dens.tv/h/h230/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h231/01.m3u8
