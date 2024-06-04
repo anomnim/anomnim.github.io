@@ -177,8 +177,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="M3U8" tvg-id="Trans7.id",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="M3U8" tvg-id="TransTV.id",Trans7
+https://github.com/mimipipi22/lalajo/raw/main/dens/trans7
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="M3U8" tvg-id="TransTV.id",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="M3U8" tvg-id="TransTV.id",Trans TV
+https://github.com/mimipipi22/lalajo/raw/main/dens/transtv
 
 #EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
