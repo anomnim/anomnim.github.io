@@ -378,17 +378,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1 group-title="Hiburan" tvg-id="kplus.id" tvg-logo="https://iptv.urfan.web.id/logo/kplus.png",K+
+#EXTINF:-1 group-title="Film" tvg-id="kplus.id" tvg-logo="https://iptv.urfan.web.id/logo/kplus.png",K+
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
-#EXTINF:-1 group-title="Hiburan" tvg-id="kbskorea.kr" tvg-logo="https://iptv.urfan.web.id/logo/kbskorea.png",KBS Korea
+#EXTINF:-1 group-title="Film" tvg-id="kbskorea.kr" tvg-logo="https://iptv.urfan.web.id/logo/kbskorea.png",KBS Korea
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
-#EXTINF:-1 group-title="Hiburan" tvg-id="kbsworld.kr" tvg-logo="https://iptv.urfan.web.id/logo/kbsworld.png",KBS World
+#EXTINF:-1 group-title="Film" tvg-id="kbsworld.kr" tvg-logo="https://iptv.urfan.web.id/logo/kbsworld.png",KBS World
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
@@ -442,7 +442,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 group-title="Hiburan" tvg-id="tvnasia.hk" tvg-logo="https://iptv.urfan.web.id/logo/tvn.png",tvN
+#EXTINF:-1 group-title="Film" tvg-id="tvnasia.hk" tvg-logo="https://iptv.urfan.web.id/logo/tvn.png",tvN
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
