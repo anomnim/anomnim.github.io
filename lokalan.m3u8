@@ -3,15 +3,10 @@
 #EXTM3U billed-msg="coba tambahin link ini https://s.id/21J02"
 
 #EXTM3U vod_library
-https://s.id/24Idp
+https://s.id/21J02
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uJTTmk8.png?v=1.1.1.1" tvg-id="CNBC Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w808061853_b192000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Mtx9mY.png?v=1.0.0.1" tvg-id="CNN Indonesia" tvg-name="CNN Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w747607540_b192000_sleng.m3u8
-
-#EXTINF:-1, RRI Pro 2 Tanjung Pinang
-https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3
