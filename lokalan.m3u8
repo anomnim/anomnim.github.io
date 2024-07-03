@@ -2,8 +2,7 @@
 
 #EXTM3U billed-msg="coba tambahin link ini https://s.id/21J02"
 
-#EXTM3U vod_library
-https://s.id/24Idp
+#EXTM3U vod_library https://s.id/24Idp
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uJTTmk8.png?v=1.1.1.1" tvg-id="CNBC Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
@@ -16,3 +15,5 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTINF:-1, RRI Pro 2 Tanjung Pinang
 https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3
 
+#EXTINF:0 type="playlist",dw
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/dw.m3u8
