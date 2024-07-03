@@ -2,8 +2,6 @@
 
 #EXTM3U billed-msg="m3u8 bukan mpd, coba tambahin link ini https://s.id/24IfI"
 
-#EXTM3U vod_library
-https://s.id/24IfI
 
 #EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
