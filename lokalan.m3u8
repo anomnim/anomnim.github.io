@@ -6,6 +6,18 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Mtx9mY.png?v=1.0.0.1" tvg-id="CNN Indonesia" tvg-name="CNN Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" tvg-id="Trans7.id",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" tvg-id="TransTV.id",Trans7 (Dens)
+https://github.com/mimipipi22/lalajo/raw/main/dens/trans7
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" tvg-id="TransTV.id",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" tvg-id="TransTV.id",Trans TV (Dens)
+https://github.com/mimipipi22/lalajo/raw/main/dens/transtv
+
 ################ Aplha Girls ################
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Indonesia",Aplha Girls S1 E01
