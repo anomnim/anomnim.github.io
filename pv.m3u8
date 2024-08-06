@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="testing"
+##EXTM3U billed-msg="testing"
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uJTTmk8.png?v=1.1.1.1" tvg-id="CNBC Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
