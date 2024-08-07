@@ -92,6 +92,5 @@ https://www.googleapis.com/drive/v3/files/1KS3RWg7VWtXqdCvOq8pjXgewMpHagkGV?alt=
 
 ################  ################
 
-###EXTM3U vod_library
-#EXTINF:-1 group-title="Playlist",Pelem
+#EXTM3U vod_library="m3u"
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pelem.m3u8
