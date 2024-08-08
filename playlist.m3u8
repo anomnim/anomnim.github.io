@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" refresh="1440" max-conn="2" refresh="24"
-#EXTM3U vod_library="https://raw.githubusercontent.com/smarttvbox02/SUKA-FILM/main/README.md,https://raw.githubusercontent.com/ShareextReborn/Update-files.m3u/main/MoviesXXI.m3u,https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbogoasia"
+#EXTM3U vod_library="https://raw.githubusercontent.com/smarttvbox02/SUKA-FILM/main/README.md,https://raw.githubusercontent.com/ShareextReborn/Update-files.m3u/main/MoviesXXI.m3u,https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbogoasia,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod"
 #EXTM3U billed-msg="jgn ninggalin jejak"
 
 
