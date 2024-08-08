@@ -20,14 +20,14 @@ https://www.googleapis.com/drive/v3/files/1WtYlpxBtQEV8mCdNrzXQE6tgPFhS_5UQ?alt=
 #EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Asterix et Obelix L Empire Du Milieu
 https://www.googleapis.com/drive/v3/files/1V-eVBfc6jdlzDUgYRLCa3TrT0WnNviyC?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Artemis Fowl
-https://cdn.winten.workers.dev/download.aspx?file=sa2CJqIDz9I%2F6GD8b%2FMxg6OY38%2Fg1byzZBfrfs7QIKaJ0zshu58MdC0Wqg9B%2Bqc%2B&expiry=K%2BXK7c3lvvLe%2F2KqTbBDYA%3D%3D&mac=8f8285bba3d5f9fbe4125a3e9b5ed361709e39fab7ca802ed6f2d25b3cd9413a
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Artemis Fowl
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Night At The Museum (2006)
-https://cdn.winten.workers.dev/download.aspx?file=sa2CJqIDz9I%2F6GD8b%2FMxg6OY38%2Fg1byzZBfrfs7QIKaJ0zshu58MdC0Wqg9B%2Bqc%2B&expiry=K%2BXK7c3lvvLe%2F2KqTbBDYA%3D%3D&mac=8f8285bba3d5f9fbe4125a3e9b5ed361709e39fab7ca802ed6f2d25b3cd9413a
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Night At The Museum Secret of the Tomb (2014)
-https://cdn.winten.workers.dev/download.aspx?file=LDs%2BojZPkGhF7xX%2BA91sMkcgA2oPdvFW%2FdfETk62RJ0DzNKJEkwBohkm6cQ8a0Gp&expiry=mZLmMQ4ErhRoez2xv4TKXA%3D%3D&mac=0b16ede7861693cdd62d5c3025cb1b5e9988fc9d11d7a249302cc8aba99a0d8e
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Night At The Museum (2006)
+
+
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Night At The Museum Secret of the Tomb (2014)
+
 
 #EXTINF:-1 type="movie" tvg-logo="" group-title="Film",The Djinn's Curse
 https://www.googleapis.com/drive/v3/files/1ceRkkFrDRxUhEUS2GLad_RGfB3T6lNar?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
@@ -35,8 +35,8 @@ https://www.googleapis.com/drive/v3/files/1ceRkkFrDRxUhEUS2GLad_RGfB3T6lNar?alt=
 #EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Exhuma (480p)
 https://www.googleapis.com/drive/v3/files/1tgFKGpRbA6Gge980tU2mV3cxftpqddKh?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Bumble Bee
-https://cdn.winten.workers.dev/download.aspx?file=0nX%2BFTFzPVFWhAQuR0AAOlb6HgNqktB4yKzQ0lJaaFLrKiE7YCaxi51M6gO4iWrM&expiry=IFVCuASOgAENQ0MpVQUh7A%3D%3D&mac=39eb511324bccf76b2f5378124756336d1093c1572563e9aa549db4baecf9a30
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Bumble Bee
+
 
 #EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Samaritan
 https://www.googleapis.com/drive/v3/files/1zxovCH6fQzCXcoFxZwYfmF2R1M6TmfNO?alt=media&key=AIzaSyD4G9veeusKNZqG4WkteGWsiFRS0EsQ1tk
@@ -68,11 +68,11 @@ https://www.googleapis.com/drive/v3/files/1hA1Ik4864TUsxKN_Ap_g3WnyHQEFimj8?alt=
 #EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Tarot
 https://www.googleapis.com/drive/v3/files/1PQg21vKw9eYejyJ1Tq3p-36NAnEutdgR?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Pacific Rim (2013)
-https://cdn.winten.workers.dev/download.aspx?file=YRBd9x9TWQQ3K9cxUAUUXdwXwW37L25dBKNnLjQm9GMbcxaX%2BBA0nzxOFm9%2F9Cge&expiry=%2BJMG3HPYMj%2FLWvGtfkxruQ%3D%3D&mac=5cac1b13dbbc47db85a39a96b3eb0d7e88afbe9cffc14517a0bcd9a26a5d9c10
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Pacific Rim (2013)
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Pacific Rim Uprising (2018)
-https://cdn.winten.workers.dev/download.aspx?file=p6xT2MNKl6HyGwtKsWyWE5E2q7S4LMUdVDw0UeFIv8iSXciqF%2FMW29%2BeaPenEAJ3&expiry=%2B76S7YXyR%2FkS3XOyK4wVzw%3D%3D&mac=0b3a41be9357352b161a33b963cd274191ada1c41e1022286ddfdb00777bc005
+
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Pacific Rim Uprising (2018)
+
 
 #EXTINF:-1 type="movie" tvg-logo="" group-title="Film",New Dimension Crayon Shinchan the movie Battle of Supernatural Powers (2023)
 https://www.googleapis.com/drive/v3/files/1ok5NaNyVuE1OVx9ZlozvM20Fc-ZVTKen?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
@@ -80,17 +80,17 @@ https://www.googleapis.com/drive/v3/files/1ok5NaNyVuE1OVx9ZlozvM20Fc-ZVTKen?alt=
 #EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Side Effects (2013)
 https://www.googleapis.com/drive/v3/files/1O2vsph3VEjqySEktu9NOvbNGJ9imfasb?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Saving Bikini Bottom: The Sandy Cheeks Movie (2024) Dubbing Indonesia
-https://cdn.winten.workers.dev/download.aspx?file=PI6qOwnvdJDCyiE%2F8Sq5pqghkzsG6EjohRdd%2FxZIpbairu4RI%2FKTUDgD7TBD3UEI&expiry=vyGGgkyY81gwfYd0xnKkPA%3D%3D&mac=ad4f15b3c07276caf94278cfe5d1f2eabc5716664e3016ef3bca2b4f142c0077
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film",Saving Bikini Bottom: The Sandy Cheeks Movie (2024) Dubbing Indonesia
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film",A Quiet Place (2018)
-https://cdn.winten.workers.dev/download.aspx?file=Q33xq4I85ggfk%2FjI%2BjtAeckht0sllTy7Xb21MSNQchlUWfUKNkK5hq5szNIK0O%2Bb&expiry=RKPS8mOJUJhHEQN7sxnJ7g%3D%3D&mac=b833b31773a8560c1e057b7108acfdfdd8ca840bcd9acca7f0b1a0871960b474
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film",A Quiet Place Part 2(2020)
-https://cdn.winten.workers.dev/download.aspx?file=VLFKDRGEYvxxnolF4XR0DaNiyrKtU%2BlTlkX7RG7nukBIh9767POhXXfa1%2FI5S89Z&expiry=8v8j2TwhYdDergb%2BO%2FibnA%3D%3D&mac=6b8693a2e048c8b318086956041be2268f983cc1d2e9d71ba300556559970e11
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film",A Quiet Place (2018)
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film",A Quiet Place Day One (2024)
-https://cdn.winten.workers.dev/download.aspx?file=AWkQ3f%2Bj7KSbEcG6xOmKOwuJXgH9euQHFCimNyR9ppLvqCrbrOT%2FvwiY%2BARPNNou&expiry=i%2BkrH7rARIGqluVNtQx4Pw%3D%3D&mac=50152a35faf1e43d87778d18b74e6c2648ebf7340988a9e096362b1a56baf481
+
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film",A Quiet Place Part 2(2020)
+
+
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film",A Quiet Place Day One (2024)
+
 
 ################ Film Indonesia ################
 
@@ -111,14 +111,14 @@ https://www.googleapis.com/drive/v3/files/1Z4kEu9F1XCPMOyNw9wZukdd3djMK5EYB?alt=
 
 ################ Film Anak ################
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film Anak",Up
-https://cdn.winten.workers.dev/download.aspx?file=zMJwMgmvvSBszaqsMDJJyySPW3%2Fq4G6ybF3XGSOmJ5GEgi8V2zvQAGc0k7kujTHq&expiry=Yuy1lUZ%2FfUzitJkQrcTiRQ%3D%3D&mac=f1a5a3a91ded627617a9fa7dc2d4d29fa1efec2310e1fb8f270306d9c5ceb641
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film Anak",Up
+
 
 #EXTINF:-1 type="movie" tvg-logo="" group-title="Film Anak",Titip Surat Untuk Tuhan
 https://www.googleapis.com/drive/v3/files/1irg3-CxZcSrdoDmSH1ALmXwFIb_gNCDr?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="Film Anak",Inside Out (2015)
-https://cdn.winten.workers.dev/download.aspx?file=pawYNpEgAZ%2FRNHj4OLSBEtwuUAcINTGh%2Fq5pNgAYic1MtfwzDgV%2FY%2FPBXmfj9Cn1&expiry=5x0tEz9p94ivzAjkmXJ%2FBA%3D%3D&mac=92c33b919f765312895f035bf522c8a5c271305c0fc862dfebdb9ee299f5ad0a
+##EXTINF:-1 type="movie" tvg-logo="" group-title="Film Anak",Inside Out (2015)
+
 
 #EXTINF:-1 type="movie" tvg-logo="" group-title="Film Anak",Sujud Terakhir Bapak
 https://www.googleapis.com/drive/v3/files/1FL9ztUfAK0_zL-G8TVPwtkzb9uyCMlsL?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
@@ -172,82 +172,82 @@ https://www.googleapis.com/drive/v3/files/1SeDqT6fvSKQ6zJv922f4qyP4QoMKbAs0?alt=
 ################ Under The Dome ################
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E01
-https://cdn.winten.workers.dev/download.aspx?file=oO3zf%2BlApmlzoruAUsfuLNH6bsXHWW9YY4C%2FYWJXZcEPyFIIhrpadha7LWXcjmHi&expiry=6R0S8bdsMCGtJcnR3jesEg%3D%3D&mac=873d55029297c022343ea77d7a730aaf8b4f228b279c7f64ce43d27fd8fc26ff
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E02
-https://cdn.winten.workers.dev/download.aspx?file=mNPCS2Xa%2Be6R%2Ft%2BciTEqNMfTgIos5QWdNa2PmazGfVoq0sW9LYz551wLvDxz29v%2B&expiry=ClWOVIwySWtMC9kscoUv8g%3D%3D&mac=7d5e82cdf821c6de79d32f9ddfb9436b6fe2ab07cef61f241ef49e9e2c3030e7
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E03
-https://cdn.winten.workers.dev/download.aspx?file=8T%2BqyTUcT2yyoU5KvnGbhHi5tKKbBk9SIgFIoWF8Fk1pBbLs9fWqd1sMLMPsObH9&expiry=2h0Du6Dh12hMTtti8ytbfg%3D%3D&mac=b68151cdc8ecdd29f101aacd88fe09c16d1e0651953e95c8dce559ed05da7070
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E04
-https://cdn.winten.workers.dev/download.aspx?file=ZWVRLRdwyyp3PcPjYpjpiYGBJTKN0GLYKh%2FSx6r6sVzhyhiIeALIJ9iPOgpHSPvt&expiry=U9IVhE1%2B3b95FLgy8OTccw%3D%3D&mac=720b8ff7c6a4536d61d1273bda3f940b78fd350c60821c38cca01f6611c647de
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E05
-https://cdn.winten.workers.dev/download.aspx?file=JcbBoYpLb%2F6NjtG0OBogCQYFprhPI1i0Q%2F8cWcyMrDN8l3qzeIapJFFBOGxnqPwx&expiry=4GXvSSUuehXBzi6xob5fpg%3D%3D&mac=ac758718fde492c9134e993d6201de6b1f860f1ca6b8bfa81ff5fbb2c779689e
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E06
-https://cdn.winten.workers.dev/download.aspx?file=01meUizsmKfy4XpT%2FmCQ3RlDg4EdENwg%2BRQzTKXzU4JoPqtu389IwLQHmioWOsoh&expiry=ORxkgJHD1irEDDvkluLJNQ%3D%3D&mac=1d5e929aa18ed83d146db7918a4562f18586527193178fda39ff32608b07e1b6
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E07
-https://cdn.winten.workers.dev/download.aspx?file=4Vb0kghSLyrJyAsqxxjthchlPTJpPVCz3IF1F3M8jKKS33xPpwXMoE0HYriViNaK&expiry=pWHTJdSYPd1EuyxKVea%2BHg%3D%3D&mac=55f34404066a0b8b645713541fb4d349b4ea7552e2e70cb8fb08be4714bba8fb
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E08
-https://cdn.winten.workers.dev/download.aspx?file=9BJSLwDdJtc2JC6hICGfJ1sC76w6z6%2BusWp%2B5ysfpQCPFQK6lTMXRjYjJBhUNoxM&expiry=b%2F3fNwgvLhz03wsEoMh%2B8A%3D%3D&mac=6914bbd2007763c0e861c6c5ded1462eb9b8e64fa02edc7875372f3e26982609
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E09
-https://cdn.winten.workers.dev/download.aspx?file=sA4UgxMchnLEVO%2BPZs4Wvl9CtDwcPVCQosPK9fjUmu1kbkACYbIETxpe9Qb3msbh&expiry=Y9PBbKwuXtXEuFbrs1fNeg%3D%3D&mac=122daaece2c7bdfda53aa5465d52fc385b0729405642626020e1faa38fff4dc6
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E10
-https://cdn.winten.workers.dev/download.aspx?file=dv34qsha7te%2BAu09KZ3ZRqfLdlMzZdbTa4zksYhlw%2FomU1uC6pfcRjJHkE92VdfY&expiry=8WPuuFM0mNupT4xhizSBwQ%3D%3D&mac=320bd7fc119076fb7b3d4670da153409ae64d070dfb6e6605410f1641bfbc216
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E11
-https://cdn.winten.workers.dev/download.aspx?file=xs7xNuXSspQfnK1NGTY6JOCTT9xu%2F0Q7twbwWAIVQgL9lO0OEWX0AqL1enJyFuIB&expiry=W1jbCSxqcCADfM8xi90Gmg%3D%3D&mac=76b9a6c0646f76f5a929eb00e4c01b39c169da94703019c773feace5fcc86600
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E12
-https://cdn.winten.workers.dev/download.aspx?file=29mQubgPavG%2FTDctvJ8Ailziy9mhVQPQMggRC8zuvABgrgXLSSoTXJRRXgk5fbkU&expiry=a4gTXHnrCRWX0Re6%2BVQZkA%3D%3D&mac=8ecbcbf8db925e8b41d8c3c293bc5f44dc8ff5f5d271de80711bba1102773180
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S1 E13
-https://cdn.winten.workers.dev/download.aspx?file=fNiP3pbIKAKuFGutjVylmzz44fqH6iD5cmDfmqJf3wJ4D8BKogz1FhGFrSOb%2F9Br&expiry=7AVhevvKhiq4pzMW1yRFoA%3D%3D&mac=56146982d9a14dd60422edd1e492935ebc854b5edde9d12be2f7c4a2e111093d
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E01
-https://cdn.winten.workers.dev/download.aspx?file=%2B%2FryI0Ar15uU68DiLxrdSSyX1HvOkjnp4hjKXr9wIZIIENHnTuDI5hTeXaNCopbx&expiry=4MBA78Ksg98Y6hCP4Xjxzg%3D%3D&mac=555df39c26536baa2ac5658f264f645e1987acbdbb8fa607e331a3573262d918
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E02
-https://cdn.winten.workers.dev/download.aspx?file=VXyOCWsxxWhXiy51aEsiwQm4PRIuwEyKXG9ifO5B5Ii2grNzJ9QekKClh7TGFbBR&expiry=V%2FP7BAKD4r6P2MbZbOVbkg%3D%3D&mac=ef66ebdeed22c51d5e44a93789b66c69077b0ea3b0d12334acea71ec5e86729e
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E03
-https://cdn.winten.workers.dev/download.aspx?file=uWVkdJZ%2FtyjsoHiRLNxMBUr17LLAWgYNjODBa9uggTe7SVmJBJPrbY0G7%2FKlGfRL&expiry=ncNqgNY5RHz7EPuB5Cn8Ew%3D%3D&mac=3107673409c621004bd67acb0c3ad7b5986a55b38c312eeb26ab3439fbe15078
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E04
-https://cdn.winten.workers.dev/download.aspx?file=5cbXe91a5I1QvJE7OPx15kfKMHq6EE%2FZQULF54Hn0VSYwnArxIN%2BRLy%2B%2BhUQH57D&expiry=h9GdWdFP9Az87MzlJAZ5jw%3D%3D&mac=00a5751b0b84464ce3709165b9dd4101aa8ce3d0093b43c9d175b04459896dfd
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E05
-https://cdn.winten.workers.dev/download.aspx?file=QUhcrISw19VIhw1iPZJZ6hv0Ybo9brmF%2F5dtzG6pBgYQsH3ssFyYqkZa1uddt%2FM2&expiry=msBuZsVrZw326rcK9xzStQ%3D%3D&mac=0110823b3cee11a132e6bedafd663ae1ed44e2af8a21ed27eda2ae7318aa0e1e
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E06
-https://cdn.winten.workers.dev/download.aspx?file=s4HvU%2BxylW8qlIVnhHYWseDjfr%2FEjD4LeRykmJoqze8ZAcf4JU1fzzoJ56vYk0y%2F&expiry=7GU2YYbBJrib%2Fn3VUYHzeg%3D%3D&mac=e8d42942a522eb6e51cfabafa72b1508bf8f00bd151682d3d74c1b765ba42387
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E07
-https://cdn.winten.workers.dev/download.aspx?file=v%2FfqGB1PCSqjvmBNanP7PI8HXScV%2FAHr2XorHfP0yqoexIA2fhOyvvGBH2np0TDx&expiry=xGC%2BctrfvgZw05C6HU87LA%3D%3D&mac=bbb589f81606c32ad2549eb7f3a82931b729eddccf50a2b0d5ab33d271f6a48e∑
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E08
-https://cdn.winten.workers.dev/download.aspx?file=kdTEh6lv%2B4OSc5Dp5%2FCxlJQaDy01zEasrxNcmei%2FAej8nM7a%2Bf%2B33L4qWkMVFxBC&expiry=0RKzsnkzE84KPXokYfNPkg%3D%3D&mac=62b68453c03e87bdb8be80d3366a902464dcf1d04ac602d8c032da74237d4dfa
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E09
-https://cdn.winten.workers.dev/download.aspx?file=R7gOOWA9jE69gMur8RlKj8XaQrlcH98%2BQ9slUn%2FZBxYUAKtYv5u2j5v2zpJ3ulhW&expiry=nMga2la%2BkxWV6L39zeg8%2Fw%3D%3D&mac=1a0749832bdfe498e7b07f6fbb02ac19ef0b1a68f11fbd48b4a828c80948f542
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E10
-https://cdn.winten.workers.dev/download.aspx?file=pUDiQnVpbxRRW6G29W1mNS6f3vdW1ypV2XLlNJcFSzL7x5hI%2FXKGnwUWOsD0%2FKxw&expiry=g8ZM%2BmRNyNIQ%2FPV30agyLA%3D%3D&mac=c8526fcfd61243eb3411993ddf8722204770dfba5865b8d03514e99c74614144
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E11
-https://cdn.winten.workers.dev/download.aspx?file=bMq7EXfi0FVXIyLWQGoAljtun7DokwzI3PX3FFNHySeCKGPyJdg6c8F0Ko4STcY3&expiry=nqHP9jCJ0Q0yM%2FhDhlehLQ%3D%3D&mac=41ce8748346d35f9d756ae40c3114a5eeadabf19adef60ab7a5193f922743120
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E12
-https://cdn.winten.workers.dev/download.aspx?file=1mEChW9jP0BJhVBZ%2FnWijwp%2B797ZQiwGPILUyuMgbE5jrtpMqSXl6Th%2FgkggfX2E&expiry=xL9QCSxCKyuBkAv5gtoddA%3D%3D&mac=a8a2d5ea7edfbf39c37038950d404bac2f90ffd13140257cb638de922e2cee3e
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S2 E13
-https://cdn.winten.workers.dev/download.aspx?file=kduUBclDaYYkiRAylf7P1lWKyUdJ2NUpbA8%2FcUTYQvy7FCPL32%2FVdtfl5z%2FiBt%2Bc&expiry=u5Tdl8CTgrAJ1VgfePvX4g%3D%3D&mac=3bb026dedc6bdee58a6b5457fbea598c2b75335f3eb92efcd0c44cd98aedeafe
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Barat",Under The Dome S3 E01
 
@@ -291,16 +291,16 @@ https://cdn.winten.workers.dev/download.aspx?file=kduUBclDaYYkiRAylf7P1lWKyUdJ2N
 #########################   LOL Indonesia   #########################
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Indonesia",LOL Indonesia S1 E01
-https://cdn.winten.workers.dev/download.aspx?file=b5sfYXSXsRhDwJae%2BMOzjwuBpqW4xxi0O0BgS2KoX1UqH4zgdqo9UYJ9UCSFtK1t&expiry=ULjQOcrxLAcUfc4J5xMACw%3D%3D&mac=cd5bc9d2c60e3c5fa1e0f125b81992a913f6728b3e40a12c934a94e13669c7ce
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Indonesia",LOL Indonesia S1 E02
-https://cdn.winten.workers.dev/download.aspx?file=63jbEE%2Fan89l4wccMO1p250qzLs1Sp0vIgfO4PIpRdECL9PfsErucYmp%2Ft5InX%2FX&expiry=tfpIq0yQlNu7AJ42XJBAbg%3D%3D&mac=531eb4fb2f2572678dec3c78034b5e3f650ddf70c4adfc65564a834852b9d849
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Indonesia",LOL Indonesia S1 E03
-https://cdn.winten.workers.dev/download.aspx?file=uEMBni3SQBD2pzP0Gckl3pmyS0wzEouCkST5U2QxPkdrXroVth%2FZMHvhiuSwTZG2&expiry=%2F%2F8lKQH3XnqmBTdlIF%2B6yg%3D%3D&mac=ab6dda7dca657d3c24a5aa9f8a1864c5512fed3366cbaf576ec8f3679a908535
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Indonesia",LOL Indonesia S1 E04
-https://cdn.winten.workers.dev/download.aspx?file=lpGsuZShEix740zSQH8tQPfbYKWTpUhfypcpqtQ2xESFWD50AQ6stFDx4vDOWBkf&expiry=8GYwaLf6t2hzc7n%2BcotZyg%3D%3D&mac=e11e5a9f9f8dddbcaabdbb1521f641b27d2f5d2d6fd9ce698101a69c925ae515
+
 
 #EXTINF:-1 type="series" tvg-logo="" group-title="Serial Indonesia",LOL Indonesia S1 E05
 #https://www.googleapis.com/drive/v3/files/1wbsqGMsQVhsp93duk0wc1KwK9BySm8Z-?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
