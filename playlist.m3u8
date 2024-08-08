@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" refresh="1440" max-conn="2" refresh="24"
-
+#EXTM3U vod_library="https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pelem.m3u8"
 #EXTM3U billed-msg="m3u8 bukan mpd, coba tambahin link ini https://s.id/24IfI"
 
 
