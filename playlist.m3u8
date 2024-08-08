@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" refresh="1440" max-conn="2" refresh="24"
 #EXTM3U vod_library="https://raw.githubusercontent.com/smarttvbox02/SUKA-FILM/main/README.md,https://raw.githubusercontent.com/ShareextReborn/Update-files.m3u/main/MoviesXXI.m3u"
-#EXTM3U billed-msg="@anomnim"
+#EXTM3U billed-msg="jgn ninggalin jejak"
 
 
 #EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",Aniplus
