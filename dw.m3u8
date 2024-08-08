@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" refresh="1440" max-conn="2" refresh="24"
 #EXTM3U vod_library="https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pelem.m3u8,https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/mam.m3u8"
-#EXTM3U billed-msg="buat pake sendiri, jangan rame²"
+#EXTM3U billed-msg="buat pake sendiri, jangan rame-rame"
 
 #########################     Nasional     #########################
 
