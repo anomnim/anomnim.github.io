@@ -293,7 +293,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekke
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png",HGTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/hgtv.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
