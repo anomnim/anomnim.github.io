@@ -4,11 +4,11 @@ http://stream.denger.in:8888/dmi
 #EXTINF:0, Sonora FM
 http://cast1.my-control-panel.com/proxy/radioso1/stream
 #EXTINF:0, Delta FM
-https://stream.cloudmu.id/listen/delta_fm/stream
+https://s1.cloudmu.id/listen/delta_fm/radio.mp3
 #EXTINF:0, Prambors FM
-https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
+
 #EXTINF:0, Female Radio
-https://stream.cloudmu.id/listen/female_radio/stream
+
 #EXTINF:0, Trax FM
 https://stream.radiojar.com/rrqf78p3bnzuv.mp3
 #EXTINF:0, HardRock FM
