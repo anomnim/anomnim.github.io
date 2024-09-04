@@ -18,7 +18,7 @@ https://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:0, Cosmopolitan FM
 https://stream.radiojar.com/u7d8heq3bnzuv
 #EXTINF:0, Gen FM
-https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
+http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
 #EXTINF:0, Jak FM
 https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
 #EXTINF:0, Mustang FM
@@ -45,4 +45,19 @@ http://live.radioqu.com:8034/;stream.mp3
 https://radioislamindonesia.com/rodja-low.mp3
 #EXTINF:0, RRI Pro 2 Tanjung Pinang
 https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3
+#EXTINF:0, Slow Radio
+https://stream-158.zeno.fm/dpk2zq5np2zuv
+#EXTINF:0, Bahana FM
+https://s1.cloudmu.id/listen/bahana/stream
+#EXTINF:0, Golden Memories
+https://stream.zeno.fm/xg7mcgf1bf9uv
+
+
+
+
+
+
+
+
+
 
