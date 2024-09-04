@@ -6,7 +6,7 @@ http://cast1.my-control-panel.com/proxy/radioso1/stream
 #EXTINF:0, Delta FM
 https://s1.cloudmu.id/listen/delta_fm/radio.mp3
 #EXTINF:0, Prambors FM
-
+https://rust.mrngroup.co:8040/stream
 #EXTINF:0, Female Radio
 https://s1.cloudmu.id/listen/female_radio/radio.mp3
 #EXTINF:0, Trax FM
