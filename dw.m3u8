@@ -39,10 +39,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 ##https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Nasional",Indosiar (CBM)
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -155,7 +155,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 ##https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="Nasional",SCTV (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
@@ -188,7 +188,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 ##https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="Nasional",Trans7 (CBM)
@@ -208,7 +208,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 ##https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="Nasional",Trans TV (CBM)
@@ -402,7 +402,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv/
 ##KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cartoon Network (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids", Cartoon Network
@@ -527,7 +527,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" group-title="Film" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjv6Wr5dojmkea1nw2cb-tSHGoOHpWke1gncAFeA9xRg&s" ch-number="92" group-logo="",BIOSKOP INDONESIA (Cubmu)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 ##https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -885,35 +885,35 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #fhttps://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.png" group-title="HBO Cubmu",HBO
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 ##https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_dx9zvcn8/landscape_carousel_xxhdpi.jpg" group-title="HBO Cubmu",HBO Hits
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 ##https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HBO_Family_%282014%29.svg/125px-HBO_Family_%282014%29.png" group-title="HBO Cubmu",HBO Family
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 ##https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/125px-HBO_Signature_%282014%29.png" group-title="HBO Cubmu",HBO Signature
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 ##https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.png" group-title="HBO Cubmu",Cinemax
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
@@ -979,38 +979,44 @@ http://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 #########################     HBO HD     #########################
 
 #EXTINF:-1 group-title="HBO HD" tvg-logo="",HBO
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbo.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbo.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/movies/hbo.m3u8
 
 #EXTINF:-1 group-title="HBO HD" tvg-logo="",HBO Family
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbofamily.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbofamily.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/movies/hbofamily.m3u8
 
 #EXTINF:-1 group-title="HBO HD" tvg-logo="",HBO Hits
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbohits.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbohits.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/movies/hbohits.m3u8
 
 #EXTINF:-1 group-title="HBO HD" tvg-logo="",HBO Plus
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hboplus.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hboplus.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/movies/hboplus.m3u8
 
 #EXTINF:-1 group-title="HBO HD" tvg-logo="",HBO Signature
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbosig.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbosig.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/movies/hbosig.m3u8
 
 #EXTINF:-1 group-title="HBO HD" tvg-logo="",HBO Movie
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbomovie.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbomovie.m3u8
 
 #EXTINF:-1 group-title="HBO HD" tvg-logo="",Cinemax
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/cinemax.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/cinemax.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/movies/cinemax.m3u8
 
 #########################     HBO FHD    #########################
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO FHD",HBO ID
-http://iptvtree.net:8080/everton/7def2e7e/197972
+#http://iptvtree.net:8080/everton/7def2e7e/197972
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO FHD",HBO Family ID
-http://iptvtree.net:8080/everton/7def2e7e/197055
+#http://iptvtree.net:8080/everton/7def2e7e/197055
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO FHD",HBO Hits ID
-http://iptvtree.net:8080/everton/7def2e7e/196480
+#http://iptvtree.net:8080/everton/7def2e7e/196480
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO FHD",HBO Signature ID
-http://iptvtree.net:8080/everton/7def2e7e/221948
+#http://iptvtree.net:8080/everton/7def2e7e/221948
 #EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO FHD",Cinemax ID
-http://iptvtree.net:8080/everton/7def2e7e/197964
+#http://iptvtree.net:8080/everton/7def2e7e/197964
 
 #########################     HBO Maxstream   #########################
 
