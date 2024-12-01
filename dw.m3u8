@@ -123,9 +123,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.0.0.1" group-title="Nasional" tvg-id="NET.id" tvg-name="NET",NET (Dens)
-#http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h06/02.m3u8
 #https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/dens/net.m3u8
-https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=net
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/z4x2PkBTzTivB-VIK84936zZZVU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="Nasional", Nusantara TV HD
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
