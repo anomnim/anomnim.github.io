@@ -1,0 +1,6 @@
+#EXTM3U x-tvg-url="https://s.urfan.web.id/epg,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" refresh="1440" max-conn="2" refresh="24"
+
+
+
+#EXTINF:-1 group-title="playlist type="playlist"
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/dw.m3u8
