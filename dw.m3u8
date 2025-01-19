@@ -5,9 +5,6 @@
 #EXTINF:-1 type="playlist",v+
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/vision+
 
-#EXTINF:-1 type="playlist",urfan
-https://iptv.urfan.id
-
 #########################     Nasional     #########################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
