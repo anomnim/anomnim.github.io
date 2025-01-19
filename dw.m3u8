@@ -2,9 +2,14 @@
 #EXTM3U vod_library="https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pelem.m3u8,https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/mam.m3u8"
 #EXTM3U billed-msg="semuanya kembali normal, selamat nonton"
 
+#EXTINF:-1 group-title="playlist type="playlist",pl
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/refs/heads/main/playlist.m3u8
+
 #EXTINF:-1 group-title="playlist" type="playlist",v+
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/vision+
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/refs/heads/main/playlist.m3u8
+
+#EXTINF:-1 group-title"playlist" type="playlist",urfan
+https://iptv.urfan.id
 
 #########################     Nasional     #########################
 
