@@ -22,6 +22,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/trial
 #EXTINF:-1 type="playlist",shareext
 https://raw.githubusercontent.com/ShareextReborn/Update-files.m3u/main/Shareext@Group
 
+#EXTINF:-1 type="playlist",urfan
+https://iptv.urfan.id
+
 #####
 
 #EXTINF:-1 tvg-logo="" group-title="M3U8" tvg-id="",Aniplus
