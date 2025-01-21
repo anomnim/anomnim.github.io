@@ -20,10 +20,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/denstv
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trial
 
 #EXTINF:-1 type="playlist",shareext
-https://raw.githubusercontent.com/ShareextReborn/Update-files.m3u/main/Shareext@Group
+#https://raw.githubusercontent.com/ShareextReborn/Update-files.m3u/main/Shareext@Group
 
 #EXTINF:-1 type="playlist",urfan
-https://iptv.urfan.id
+#https://iptv.urfan.id
 
 #####
 
