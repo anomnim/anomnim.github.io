@@ -243,6 +243,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/denstv
 #EXTINF:-1 type="playlist",trial
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trial
 
+#EXTINF:-1 type="playlist",smarttvbox021
+https://raw.githubusercontent.com/smarttvbox02/smarttvbox021/main/README.md
+
 #EXTINF:-1 type="playlist",shareext
 https://raw.githubusercontent.com/ShareextReborn/Update-files.m3u/main/Shareext@Group
 
