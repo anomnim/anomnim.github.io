@@ -1162,4 +1162,5 @@ http://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://hometv.pw/logo/movies/cinemax.png" group-title="Maxstream",CINEMAX
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
-
+#EXTINF:-1 type="playlist",urfan
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/urfan.m3u
