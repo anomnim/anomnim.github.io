@@ -252,4 +252,7 @@ https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/refs
 #EXTINF:-1 type="playlist",urfan
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/urfan.m3u
 
+#EXTINF:-1 type="playlist",urfan
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/test.m3u
+
 #####
