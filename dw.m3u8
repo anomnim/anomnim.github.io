@@ -970,7 +970,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.png" group-title="HBO Cubmu",HBO
 #https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306484
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -982,7 +981,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306484
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_dx9zvcn8/landscape_carousel_xxhdpi.jpg" group-title="HBO Cubmu",HBO Hits
 #https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306486
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -994,7 +992,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306486
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HBO_Family_%282014%29.svg/125px-HBO_Family_%282014%29.png" group-title="HBO Cubmu",HBO Family
 #https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306485
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1006,7 +1003,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306485
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/125px-HBO_Signature_%282014%29.png" group-title="HBO Cubmu",HBO Signature
 #https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306483
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1018,7 +1014,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306483
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.png" group-title="HBO Cubmu",Cinemax
 #https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
 
 #########################     Olahraga     #########################
 
@@ -1166,6 +1161,20 @@ http://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://hometv.pw/logo/movies/cinemax.png" group-title="Maxstream",CINEMAX
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+#########################     HBO ShareExt  #########################
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Shareext@MOVIES",ID: HBO http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306484
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Shareext@MOVIES",ID: HBO 1080 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Shareext@MOVIES",ID: HBO Family http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306485
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Shareext@MOVIES",ID: HBO Family 1080 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Shareext@MOVIES",ID: HBO Hits http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306486
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Shareext@MOVIES",ID: HBO Hits 1080 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Shareext@MOVIES",ID: HBO Signature http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306483
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Shareext@MOVIES",ID: HBO Signature 1080 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Shareext@MOVIES",ID: Cinemax http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
+
+#########################     Playlist #########################
 
 #EXTINF:-1 type="playlist",urfan
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/urfan.m3u
