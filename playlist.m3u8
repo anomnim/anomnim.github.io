@@ -228,51 +228,23 @@ http://op-group1-swiftservehd-1.dens.tv/h/h250/01.m3u8
 
 ####################################
 
-#EXTINF:-1 tvg-logo="" group-title="=dw=" tvg-id="",playlist
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.2.2
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/refs/heads/main/bekap/id_flag.mp4
-
 #EXTINF:-1 type="playlist",dw
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/dw.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="=jeje=" tvg-id="",playlist
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.2.2
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/refs/heads/main/bekap/id_flag.mp4
 
 #EXTINF:-1 type="playlist",jeje
 https://raw.githubusercontent.com/hendroagung2904/JejeVISION/main/JejeVISION.m3u
 
-#EXTINF:-1 tvg-logo="" group-title="=denstv=" tvg-id="",playlist
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.2.2
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/refs/heads/main/bekap/id_flag.mp4
-
 #EXTINF:-1 type="playlist",denstv
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/denstv
-
-#EXTINF:-1 tvg-logo="" group-title="=playlist25=" tvg-id="",playlist
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.2.2
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/refs/heads/main/bekap/id_flag.mp4
 
 #EXTINF:-1 type="playlist",playlist25
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
 
-#EXTINF:-1 tvg-logo="" group-title="=trial=" tvg-id="",playlist
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.2.2
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/refs/heads/main/bekap/id_flag.mp4
-
 #EXTINF:-1 type="playlist",trial
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trial
 
-#EXTINF:-1 tvg-logo="" group-title="=v+=" tvg-id="",playlist
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.2.2
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/refs/heads/main/bekap/id_flag.mp4
-
 #EXTINF:-1 type="playlist",v+
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/vision+
-
-#EXTINF:-1 tvg-logo="" group-title="=smtvbx21=" tvg-id="",playlist
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.2.2
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/refs/heads/main/bekap/id_flag.mp4
 
 #EXTINF:-1 type="playlist",smarttvbox021
 https://raw.githubusercontent.com/smarttvbox02/smarttvbox021/main/README.md
