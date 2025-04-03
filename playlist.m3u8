@@ -234,14 +234,17 @@ https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/dw.m3u8
 #EXTINF:-1 type="playlist",jeje
 https://raw.githubusercontent.com/hendroagung2904/JejeVISION/main/JejeVISION.m3u
 
-#EXTINF:-1 type="playlist",v+
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/vision+
-
 #EXTINF:-1 type="playlist",denstv
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/denstv
 
+#EXTINF:-1 type="playlist",playlist25
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
+
 #EXTINF:-1 type="playlist",trial
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trial
+
+#EXTINF:-1 type="playlist",v+
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/vision+
 
 #EXTINF:-1 type="playlist",smarttvbox021
 https://raw.githubusercontent.com/smarttvbox02/smarttvbox021/main/README.md
@@ -252,7 +255,7 @@ https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/refs
 #EXTINF:-1 type="playlist",urfan
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/urfan.m3u
 
-#EXTINF:-1 type="playlist",urfan
+#EXTINF:-1 type="playlist",test
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/test.m3u
 
 #####
