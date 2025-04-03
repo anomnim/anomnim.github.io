@@ -1165,8 +1165,8 @@ http://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 #########################     Playlist #########################
 
 #EXTINF:-1 type="playlist",urfan
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/urfan.m3u
+#https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/urfan.m3u
 
 #EXTINF:-1 type="playlist",HBO ShareExt
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/test.m3u
+#https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/test.m3u
 
