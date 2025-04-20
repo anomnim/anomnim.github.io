@@ -1,145 +1,145 @@
 #EXTM3U
 #EXTM3U billed-msg="rebuild only for free streaming"
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",DensPlay
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",DensPlay
 https://group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",DensLife&Style
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",DensLife&Style
 https://group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",DensFood Channel
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",DensFood Channel
 https://group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",DensShowBiz
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",DensShowBiz
 https://group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",DensKnowledge
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",DensKnowledge
 https://group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",Channel Jowo
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",Channel Jowo
 https://group1-swiftservehd-1.dens.tv/h/h208/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="MetroTV.id" tvg-name="MetroTV",MetroTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="MetroTV.id" tvg-name="MetroTV",MetroTV
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",TVOne
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",TVOne
 https://group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501525_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",KompasTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501525_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",KompasTV
 https://group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg" group-title="dens.tv" tvg-id="" tvg-name="",BTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",BTV
 https://group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687939_tvchannels_v1.jpeg" group-title="dens.tv" tvg-id="" tvg-name="",BeritaSatu
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687939_tvchannels_v1.jpeg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",BeritaSatu
 https://group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",AnTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",AnTV
 https://group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",MDTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",MDTV
 https://group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",RTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",RTV
 https://group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501688_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",ElshintaTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501688_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",ElshintaTV
 https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",Magna Channel
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",Magna Channel
 https://group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",TVRI Sport
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",TVRI Sport
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",TVRI
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",TVRI
 https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",JAKTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",JAKTV
 https://op-group1-swiftservesd-1.dens.tv/s/s123/index1.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",RodjaTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501810_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",RodjaTV
 https://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",DAAITV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501817_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",DAAITV
 https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",NusantaraTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1728448171_tvchannels_v1.jpg" group-title="dens.tv-lokal" tvg-id="" tvg-name="",NusantaraTV
 https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",Aniplus
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",Aniplus
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",MKIDZ
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502029_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",MKIDZ
-
-
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",RockEntertainment
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",RockEntertainment
 https://op-group1-swiftservehd-1.dens.tv/h/h16/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",RockAction
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",RockAction
 https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",KIX
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502076_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",KIX
 https://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1714465946_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",KBSKorea
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1714465946_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",KBSKorea
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1714465949_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",KBSWorld
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1714465949_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",KBSWorld
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",K+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",K+
 https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502092_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",tvN
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502092_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",tvN
 https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",tvNMovies
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",tvNMovies
 https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",CelestialMovies
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",CelestialMovies
 https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",ClassicCelestialMovies
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",ClassicCelestialMovies
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",MyCinemaAsia
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",MyCinemaAsia
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",Thrill
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",Thrill
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",MyCinema
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",MyCinema
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",MyCinemaEurope
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",MyCinemaEurope
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",MyFamilyChannel
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",MyFamilyChannel
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",TV5MondeStyle
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",TV5MondeStyle
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",Crema.TV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701422037_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",Crema.TV
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1744344467_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",QWest
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1744344467_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",QWest
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423611_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",StingrayClassica
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423611_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",StingrayClassica
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423538_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",DanceTV
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423538_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",DanceTV
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",FightSport
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",FightSport
 https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" group-title="dens.tv" tvg-id="" tvg-name="",MotorVision+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",MotorVision+
 
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503269_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",W-Sport
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503269_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",W-Sport
 https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
