@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTM3U billed-msg="rebuild only for free streaming"
 
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="MetroTV.id" tvg-name="MetroTV",MetroTV
-https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",DensPlay
 https://group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8
 
@@ -21,6 +18,9 @@ https://group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",Channel Jowo
 https://group1-swiftservehd-1.dens.tv/h/h208/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="MetroTV.id" tvg-name="MetroTV",MetroTV
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" group-title="dens.tv" tvg-id="" tvg-name="",TVOne
 https://group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
