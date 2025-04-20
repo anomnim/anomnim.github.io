@@ -985,13 +985,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 
 #########################     Playlist #########################
 
-#EXTINF:-1 type="playlist",test
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/shareext.m3u
+#EXTINF:-1 type="playlist",jeje
+https://raw.githubusercontent.com/hendroagung2904/JejeVISION/main/JejeVISION.m3u
 
 #EXTINF:-1 type="playlist",playlist25
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
 
 #EXTINF:-1 type="playlist",shareext
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/refs/heads/main/Shareext%40LokalHiburan.m3u
-
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/shareext.m3u
 
