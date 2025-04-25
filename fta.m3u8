@@ -142,41 +142,64 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503269_tvchannels_v1.jpg" group-title="dens.tv-premium" tvg-id="" tvg-name="",W-Sport
 https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503403_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",CNA
+https://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503409_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",NHKWorld
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503416_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",AlJazeeraEN
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503423_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",TRTWorld
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503432_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",WION
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503445_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",FreeDom
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503451_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",AlJazeeraAR
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503457_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",CCTV4
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503463_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",France24
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503469_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",TV5Monde
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504940_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",DW
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1712205651_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",AIM
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504946_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",TBN
 
 
-#EXTINF:-1 tvg-logo="" group-title="dens.tv" tvg-id="" tvg-name="",
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504951_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",CGTN
+
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",MekkahTV
+
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",MadinahTV
+
+
+#EXTINF:-1 tvg-logo="" group-title="dens.tv-free" tvg-id="" tvg-name="",
+
+
+#EXTINF:-1 tvg-logo="" group-title="dens.tv-free" tvg-id="" tvg-name="",
+
+
+#EXTINF:-1 tvg-logo="" group-title="dens.tv-free" tvg-id="" tvg-name="",
+
+
+#EXTINF:-1 tvg-logo="" group-title="dens.tv-free" tvg-id="" tvg-name="",
+
+
 
