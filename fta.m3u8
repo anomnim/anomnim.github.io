@@ -167,28 +167,28 @@ https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503463_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",France24
-
+https://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503469_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",TV5Monde
-
+https://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504940_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",DW
+https://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1712205651_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",AIM
-
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1712205651_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",DIM
+https://op-group1-swiftservehd-1.dens.tv/h/h232/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504946_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",TBN
-
+https://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504951_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",CGTN
-
+https://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",MekkahTV
+https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",MadinahTV
-
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="dens.tv-int'l" tvg-id="" tvg-name="",SunnaTV
+https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-movies340x160@3x@3x.jpg" group-title="dens.tv-free" tvg-id="" tvg-name="",Movies
 https://op-group1-swiftservehd-1.dens.tv/h/h70/wedotv_movie.m3u8
