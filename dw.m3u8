@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://s.urfan.web.id/epg,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" refresh="1440" max-conn="2" refresh="24"
-#EXTM3U vod_library="https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pelem.m3u8,https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/mam.m3u8"
+#EXTM3U vod_library="https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pelem.m3u8,https://raw.githubusercontent.com/smarttvbox02/SUKA-FILM/main/README.md,https://raw.githubusercontent.com/shareext-reborn/Shareext-Cinema21.m3u/refs/heads/main/Shareext@Cinema21.m3u,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbogoasia,https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/DewaNonton"
 #EXTM3U billed-msg="yg error dihilangkan, silakan pilih yang lain"
 
 #########################     Playlist #########################
