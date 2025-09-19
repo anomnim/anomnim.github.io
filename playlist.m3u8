@@ -4,23 +4,12 @@
 
 ########################################################################
 
-#EXTINF:-1 type="playlist",jeje
-https://raw.githubusercontent.com/hendroagung2904/JejeVISION/main/JejeVISION.m3u
-
 #EXTINF:-1 type="playlist",daddylivech
 https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/daddylive-channels
 
-#EXTINF:-1 type="playlist",denstv
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/denstv
-
 #EXTINF:-1 type="playlist",playlist25
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
-
-#EXTINF:-1 type="playlist",trial
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trial
-
-#EXTINF:-1 type="playlist",v+
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/vision+
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/playlist25.m3u
 
 #EXTINF:-1 type="playlist",shareext
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/refs/heads/main/Shareext@LokalHiburan.m3u
