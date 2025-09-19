@@ -6,7 +6,7 @@
 #########################     Playlist #########################
 
 #EXTINF:-1 type="playlist",AlbhiIPTV
-#https://my.bianet.es/AlbhiansyahIPTV
+https://my.bianet.es/AlbhiansyahIPTV
 
 #EXTINF:-1 type="playlist",playlist25
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
