@@ -18,6 +18,9 @@ https://raw.githubusercontent.com/ghozitv/iptv/main/iptv
 #EXTINF:-1 type="playlist",reza
 https://raw.githubusercontent.com/Rezaprtmalw/IPTV-Playlist/main/rezaiptv.m3u
 
+#EXTINF:-1 type="playlist",OdOX09
+https://raw.githubusercontent.com/OdOX09/Oct25/refs/heads/main/hometvonline.m3u
+
 ####################################################################################################
 
 #//========================================================================
