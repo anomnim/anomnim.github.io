@@ -7,21 +7,21 @@
 
 #EXTINF:-1 type="playlist",playlist25
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/playlist25
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/playlist25.m3u
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/playlist25.m3u
 
 #EXTINF:-1 type="playlist",shareext
 #https://raw.githubusercontent.com/shareext-reborn/Shareext-LokalHiburan.m3u/main/Shareext%40LokalHiburan.m3u
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/shareext.m3u
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/shareext.m3u
 
 #EXTINF:-1 type="playlist",ghozitv
 #https://raw.githubusercontent.com/ghozitv/iptv/main/iptv
 
 #EXTINF:-1 type="playlist",reza
 #https://raw.githubusercontent.com/Rezaprtmalw/IPTV-Playlist/main/rezaiptv.m3u
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/rezaiptv.m3u
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/rezaiptv.m3u
 
 #EXTINF:-1 type="playlist",OdOX09
 #https://raw.githubusercontent.com/OdOX09/Oct25/refs/heads/main/hometvonline.m3u
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/OdOX09.m3u
+https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/OdOX09.m3u
 
 ####################################################################################################
