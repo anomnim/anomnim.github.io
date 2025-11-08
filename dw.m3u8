@@ -18,10 +18,10 @@ https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/shareext.m3u
 
 #EXTINF:-1 type="playlist",reza
 #https://raw.githubusercontent.com/Rezaprtmalw/IPTV-Playlist/main/rezaiptv.m3u
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/rezaiptv.m3u
+#https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/rezaiptv.m3u
 
 #EXTINF:-1 type="playlist",OdOX09
 #https://raw.githubusercontent.com/OdOX09/Oct25/refs/heads/main/hometvonline.m3u
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/OdOX09.m3u
+#https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/OdOX09.m3u
 
 ####################################################################################################
