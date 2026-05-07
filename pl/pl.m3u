@@ -134,7 +134,7 @@ http://103.58.160.157:8278/720-CGTN/playlist.m3u8
 
 #EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png",CGTN DOCUMENTARY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-CGTNDOC/playlist.m3u8
+#http://103.58.160.157:8278/720-CGTNDOC/playlist.m3u8
 
 #EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/YSRFhBRB/ezgif-3-f137a3918c.png",NHK WORLD JAPAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -178,19 +178,19 @@ http://103.58.160.157:8278/720-DWENGLISH/playlist.m3u8
 
 #EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/tJKzrRn2/ezgif-43179727fc7cce7b.png",EURONEWS.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-EURONEWS/playlist.m3u8
+#http://103.58.160.157:8278/720-EURONEWS/playlist.m3u8
 
 #EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/kXFtqMQH/ezgif-67b147fe9146efb9.png",TV5 MONDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-TV5MONDE/playlist.m3u8
+#http://103.58.160.157:8278/720-TV5MONDE/playlist.m3u8
 
 #EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png",FRANCE 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-FRANCE24/playlist.m3u8
+#http://103.58.160.157:8278/720-FRANCE24/playlist.m3u8
 
 #EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV SOUTHEAST ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-FASHIONTV/playlist.m3u8
+#http://103.58.160.157:8278/720-FASHIONTV/playlist.m3u8
 
 #EXTINF:-1 group-title="ID 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner-tv-us.png",WARNER BROS.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
