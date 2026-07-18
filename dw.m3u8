@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/shareext.m3u
 #EXTINF:-1 type="playlist",bugsfree
 #https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Indonesia/LiveTV.m3u
 
-#EXTINF:-1 type="playlist",ghozitv
-#https://raw.githubusercontent.com/ghozitv/iptv/main/iptv
+#EXTINF:-1 type="playlist",dhanytv
+https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u
 
 #EXTINF:-1 type="playlist",reza
 #https://raw.githubusercontent.com/Rezaprtmalw/IPTV-Playlist/main/rezaiptv.m3u
