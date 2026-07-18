@@ -17,7 +17,7 @@
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/shareext.m3u
 
 #EXTINF:-1 type="playlist",bugsfree
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Indonesia/LiveTV.m3u
+#https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Indonesia/LiveTV.m3u
 
 #EXTINF:-1 type="playlist",ghozitv
 #https://raw.githubusercontent.com/ghozitv/iptv/main/iptv
