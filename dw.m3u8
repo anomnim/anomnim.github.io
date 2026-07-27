@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/shareext.m3u
 https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/lelipur.m3u
 
 #EXTINF:-1 type="playlist",mimipipi22-ayo
-https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/ayo.m3u
+#https://raw.githubusercontent.com/anomnim/anomnim.github.io/main/pl/ayo.m3u
 
 #EXTINF:-1 type="playlist",bugsfree
 #https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Indonesia/LiveTV.m3u
